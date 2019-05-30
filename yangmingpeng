@@ -3,3 +3,4 @@
 int main(){
 print("欢迎来到C语言");
 }
+yes
