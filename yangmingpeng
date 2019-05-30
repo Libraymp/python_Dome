@@ -1,1 +1,5 @@
-sghhhhhssaa
+
+#include<stdio.h>
+int main(){
+print("欢迎来到C语言");
+}
